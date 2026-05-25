@@ -1,2 +1,2 @@
-# modm
-Multi objective decision making
+# mcdm
+Multi criteria decision making in multi objective setting
