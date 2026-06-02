@@ -10,7 +10,7 @@ import re
 import random
 
 # Paste your token here (in quotes)
-login("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")
+login("insert-token")
 
 # ✅ Load the Phi-2 model from Hugging Face (free and open)
 model_id = "microsoft/phi-2"
